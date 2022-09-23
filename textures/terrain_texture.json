@@ -1,0 +1,144 @@
+{
+  "num_mip_levels": 4,
+  "padding": 8,
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "texture_data": {
+    "wood" : {
+      "textures" : [
+        {
+          "variations": [
+            {"path":"textures/blocks/log_oak"},
+            {"path":"textures/blocks/log_oak"},
+            {"path":"textures/blocks/log_oak"},
+            {"path":"textures/blocks/log_oak"},
+            {"path":"textures/blocks/log_oak"},
+            {"path":"textures/blocks/log_oak"},
+            {"path":"textures/blocks/log_oak"},
+            {"path":"textures/blocks/log_oak"},
+            {"path":"textures/blocks/log_oak"},
+            {"path":"textures/blocks/log_oak"},
+            {"path":"textures/blocks/log_oak"},
+            {"path":"textures/blocks/log_oak"},
+            {"path":"textures/blocks/log_oak"},
+            {"path":"textures/blocks/log_oak"},
+            {"path":"textures/blocks/log_oak"},
+            {"path":"textures/blocks/log_oak"},
+            {"path":"textures/blocks/log_oak_horseshoe"}
+          ]
+        },
+        "textures/blocks/stripped_oak_log",
+        {
+          "variations": [
+            {"path":"textures/blocks/log_spruce"},
+            {"path":"textures/blocks/log_spruce"},
+            {"path":"textures/blocks/log_spruce"},
+            {"path":"textures/blocks/log_spruce"},
+            {"path":"textures/blocks/log_spruce"},
+            {"path":"textures/blocks/log_spruce"},
+            {"path":"textures/blocks/log_spruce"},
+            {"path":"textures/blocks/log_spruce"},
+            {"path":"textures/blocks/log_spruce"},
+            {"path":"textures/blocks/log_spruce"},
+            {"path":"textures/blocks/log_spruce"},
+            {"path":"textures/blocks/log_spruce"},
+            {"path":"textures/blocks/log_spruce"},
+            {"path":"textures/blocks/log_spruce"},
+            {"path":"textures/blocks/log_spruce"},
+            {"path":"textures/blocks/log_spruce"},
+            {"path":"textures/blocks/log_spruce_horseshoe"}
+          ]
+        },
+        "textures/blocks/stripped_spruce_log",
+        {
+          "variations": [
+            {"path":"textures/blocks/log_birch"},
+            {"path":"textures/blocks/log_birch"},
+            {"path":"textures/blocks/log_birch"},
+            {"path":"textures/blocks/log_birch"},
+            {"path":"textures/blocks/log_birch"},
+            {"path":"textures/blocks/log_birch"},
+            {"path":"textures/blocks/log_birch"},
+            {"path":"textures/blocks/log_birch"},
+            {"path":"textures/blocks/log_birch"},
+            {"path":"textures/blocks/log_birch"},
+            {"path":"textures/blocks/log_birch"},
+            {"path":"textures/blocks/log_birch"},
+            {"path":"textures/blocks/log_birch"},
+            {"path":"textures/blocks/log_birch"},
+            {"path":"textures/blocks/log_birch"},
+            {"path":"textures/blocks/log_birch"},
+            {"path":"textures/blocks/log_birch_horseshoe"}
+          ]
+        },
+        "textures/blocks/stripped_birch_log",
+        {
+          "variations": [
+            {"path":"textures/blocks/log_jungle"},
+            {"path":"textures/blocks/log_jungle"},
+            {"path":"textures/blocks/log_jungle"},
+            {"path":"textures/blocks/log_jungle"},
+            {"path":"textures/blocks/log_jungle"},
+            {"path":"textures/blocks/log_jungle"},
+            {"path":"textures/blocks/log_jungle"},
+            {"path":"textures/blocks/log_jungle"},
+            {"path":"textures/blocks/log_jungle"},
+            {"path":"textures/blocks/log_jungle"},
+            {"path":"textures/blocks/log_jungle"},
+            {"path":"textures/blocks/log_jungle"},
+            {"path":"textures/blocks/log_jungle"},
+            {"path":"textures/blocks/log_jungle"},
+            {"path":"textures/blocks/log_jungle"},
+            {"path":"textures/blocks/log_jungle"},
+            {"path":"textures/blocks/log_jungle_horseshoe"}
+          ]
+        },
+        "textures/blocks/stripped_jungle_log",
+        {
+          "variations": [
+            {"path":"textures/blocks/log_acacia"},
+            {"path":"textures/blocks/log_acacia"},
+            {"path":"textures/blocks/log_acacia"},
+            {"path":"textures/blocks/log_acacia"},
+            {"path":"textures/blocks/log_acacia"},
+            {"path":"textures/blocks/log_acacia"},
+            {"path":"textures/blocks/log_acacia"},
+            {"path":"textures/blocks/log_acacia"},
+            {"path":"textures/blocks/log_acacia"},
+            {"path":"textures/blocks/log_acacia"},
+            {"path":"textures/blocks/log_acacia"},
+            {"path":"textures/blocks/log_acacia"},
+            {"path":"textures/blocks/log_acacia"},
+            {"path":"textures/blocks/log_acacia"},
+            {"path":"textures/blocks/log_acacia"},
+            {"path":"textures/blocks/log_acacia"},
+            {"path":"textures/blocks/log_acacia_horseshoe"}
+          ]
+        },
+        "textures/blocks/stripped_acacia_log",
+        {
+          "variations": [
+            {"path":"textures/blocks/log_big_oak"},
+            {"path":"textures/blocks/log_big_oak"},
+            {"path":"textures/blocks/log_big_oak"},
+            {"path":"textures/blocks/log_big_oak"},
+            {"path":"textures/blocks/log_big_oak"},
+            {"path":"textures/blocks/log_big_oak"},
+            {"path":"textures/blocks/log_big_oak"},
+            {"path":"textures/blocks/log_big_oak"},
+            {"path":"textures/blocks/log_big_oak"},
+            {"path":"textures/blocks/log_big_oak"},
+            {"path":"textures/blocks/log_big_oak"},
+            {"path":"textures/blocks/log_big_oak"},
+            {"path":"textures/blocks/log_big_oak"},
+            {"path":"textures/blocks/log_big_oak"},
+            {"path":"textures/blocks/log_big_oak"},
+            {"path":"textures/blocks/log_big_oak"},
+            {"path":"textures/blocks/log_big_oak_horseshoe"}
+          ]
+        },
+        "textures/blocks/stripped_dark_oak_log"
+      ]
+    }
+  }
+}

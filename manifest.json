@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "§eMLP:FiM-inspired!\n§r§bLove-Tolerance.com",
+    "min_engine_version": [
+      1,
+      16,
+      20
+    ],
+    "name": "Love & Tolerance (Holiday)",
+    "uuid": "6094b341-9aeb-4de0-be0a-2cf29d829ae0",
+    "version": [
+      0,
+      0,
+      1
+    ]
+  },
+  "modules": [
+    {
+      "description": "§eMLP:FiM-inspired!\n§r§bLove-Tolerance.com",
+      "type": "resources",
+      "uuid": "6af140e8-f585-498e-b61d-415c1da2f5f2",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
