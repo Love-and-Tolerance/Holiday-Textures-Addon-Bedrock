@@ -26,5 +26,17 @@
         1
       ]
     }
+  ],
+  "subpacks":  [
+    {
+      "folder_name":  "nmn",
+      "memory_tier": 0,
+      "name":  "§9Nightmare Night"
+    },
+    {
+      "folder_name":  "hah",
+      "memory_tier": 0,
+      "name":  "§dHearts & Hooves"
+    }
   ]
 }

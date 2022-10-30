@@ -1,0 +1,13 @@
+{
+   "trapped_chest" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "trapped_chest_inventory_top",
+         "east" : "trapped_chest_inventory_side",
+         "north" : "trapped_chest_inventory_side",
+         "south" : "trapped_chest_inventory_front",
+         "up" : "trapped_chest_inventory_top",
+         "west" : "trapped_chest_inventory_side"
+      }
+   }
+}
