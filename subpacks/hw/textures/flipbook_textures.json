@@ -1,0 +1,30 @@
+[
+  {
+    "flipbook_texture": "textures/blocks/crafting_table_side",
+    "atlas_tile": "crafting_table_side",
+    "atlas_index": 0,
+    "atlas_tile_variant": 0,
+    "ticks_per_frame": 10
+  },
+  {
+    "flipbook_texture": "textures/blocks/crafting_table_side_2",
+    "atlas_tile": "crafting_table_side",
+    "atlas_index": 1,
+    "atlas_tile_variant": 1,
+    "ticks_per_frame": 10
+  },
+  {
+    "flipbook_texture": "textures/blocks/crafting_table_front",
+    "atlas_tile": "crafting_table_front",
+    "atlas_index": 0,
+    "atlas_tile_variant": 0,
+    "ticks_per_frame": 10
+  },
+  {
+    "flipbook_texture": "textures/blocks/crafting_table_front_2",
+    "atlas_tile": "crafting_table_front",
+    "atlas_index": 1,
+    "atlas_tile_variant": 1,
+    "ticks_per_frame": 10
+  }
+]

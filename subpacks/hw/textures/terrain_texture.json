@@ -1,0 +1,28 @@
+{
+  "num_mip_levels": 4,
+  "padding": 8,
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "texture_data": {
+    "crafting_table_side": {
+      "textures": [
+        {
+          "variations": [
+            {"path":"textures/blocks/crafting_table_side"},
+            {"path":"textures/blocks/crafting_table_side_2"}
+          ]
+        }
+      ]
+    },
+    "crafting_table_front": {
+      "textures": [
+        {
+          "variations": [
+            {"path":"textures/blocks/crafting_table_front"},
+            {"path":"textures/blocks/crafting_table_front_2"}
+          ]
+        }
+      ]
+    }
+  }
+}

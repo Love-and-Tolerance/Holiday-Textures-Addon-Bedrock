@@ -10,9 +10,9 @@
     "name": "Love & Tolerance (Holiday)",
     "uuid": "6094b341-9aeb-4de0-be0a-2cf29d829ae0",
     "version": [
+      1,
       0,
-      0,
-      1
+      0
     ]
   },
   "modules": [
@@ -21,13 +21,18 @@
       "type": "resources",
       "uuid": "6af140e8-f585-498e-b61d-415c1da2f5f2",
       "version": [
+        1,
         0,
-        0,
-        1
+        0
       ]
     }
   ],
   "subpacks":  [
+    {
+      "folder_name":  "hw",
+      "memory_tier": 0,
+      "name":  "§2H§4e§fa§2r§4t§fh§2'§4s §2W§4a§fr§2m§4i§fn§2g"
+    },
     {
       "folder_name":  "nmn",
       "memory_tier": 0,
