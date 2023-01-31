@@ -4,36 +4,56 @@
   "resource_pack_name": "vanilla",
   "texture_name": "atlas.terrain",
   "texture_data": {
-    "wood" : {
-      "textures" : [
+    "dirt": {
+      "textures": [
         {
           "variations": [
+            {"path":"textures/blocks/dirt"},
+            {"path":"textures/blocks/dirt_2"},
+            {"path":"textures/blocks/dirt_3"},
+            {"path":"textures/blocks/dirt_4"},
+            {"path":"textures/blocks/dirt_5"},
+            {"path":"textures/blocks/dirt_6"},
+            {"path":"textures/blocks/dirt"},
+            {"path":"textures/blocks/dirt_2"},
+            {"path":"textures/blocks/dirt_3"},
+            {"path":"textures/blocks/dirt_4"},
+            {"path":"textures/blocks/dirt_5"},
+            {"path":"textures/blocks/dirt_6"},
+            {"path":"textures/blocks/dirt"},
+            {"path":"textures/blocks/dirt_2"},
+            {"path":"textures/blocks/dirt_3"},
+            {"path":"textures/blocks/dirt_4"},
+            {"path":"textures/blocks/dirt_5"},
+            {"path":"textures/blocks/dirt_6"},
+			{"path":"textures/blocks/dirt_heart"}
+          ]
+        },
+        "textures/blocks/coarse_dirt"
+      ]
+    },
+    "wood": {
+      "textures": [
+        {
+          "variations": [ 
             {"path":"textures/blocks/log_oak"},
+            {"path":"textures/blocks/log_oak_2"},
+            {"path":"textures/blocks/log_oak_3"},
+            {"path":"textures/blocks/log_oak_4"},
             {"path":"textures/blocks/log_oak"},
+            {"path":"textures/blocks/log_oak_2"},
+            {"path":"textures/blocks/log_oak_3"},
+            {"path":"textures/blocks/log_oak_4"},
             {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak"},
+            {"path":"textures/blocks/log_oak_2"},
+            {"path":"textures/blocks/log_oak_3"},
+            {"path":"textures/blocks/log_oak_4"},
             {"path":"textures/blocks/log_oak_horseshoe"}
           ]
         },
         "textures/blocks/stripped_oak_log",
         {
           "variations": [
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce"},
             {"path":"textures/blocks/log_spruce"},
             {"path":"textures/blocks/log_spruce"},
             {"path":"textures/blocks/log_spruce"},
@@ -53,21 +73,17 @@
         {
           "variations": [
             {"path":"textures/blocks/log_birch"},
+            {"path":"textures/blocks/log_birch_2"},
+            {"path":"textures/blocks/log_birch_3"},
+            {"path":"textures/blocks/log_birch_4"},
+            {"path":"textures/blocks/log_birch_5"},
+            {"path":"textures/blocks/log_birch_6"},
             {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch"},
+            {"path":"textures/blocks/log_birch_2"},
+            {"path":"textures/blocks/log_birch_3"},
+            {"path":"textures/blocks/log_birch_4"},
+            {"path":"textures/blocks/log_birch_5"},
+            {"path":"textures/blocks/log_birch_6"},
             {"path":"textures/blocks/log_birch_horseshoe"}
           ]
         },
@@ -86,89 +102,37 @@
             {"path":"textures/blocks/log_jungle"},
             {"path":"textures/blocks/log_jungle"},
             {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle"},
             {"path":"textures/blocks/log_jungle_horseshoe"}
           ]
         },
         "textures/blocks/stripped_jungle_log",
-        {
-          "variations": [
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia_horseshoe"}
-          ]
-        },
+        "textures/blocks/log_acacia",
         "textures/blocks/stripped_acacia_log",
-        {
-          "variations": [
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak_horseshoe"}
-          ]
-        },
+        "textures/blocks/log_big_oak",
         "textures/blocks/stripped_dark_oak_log"
       ]
     },
-    "log_side" : {
-      "textures" : [
+    "log_side": {
+      "textures": [
         {
-          "variations": [
+          "variations": [ 
             {"path":"textures/blocks/log_oak"},
+            {"path":"textures/blocks/log_oak_2"},
+            {"path":"textures/blocks/log_oak_3"},
+            {"path":"textures/blocks/log_oak_4"},
             {"path":"textures/blocks/log_oak"},
+            {"path":"textures/blocks/log_oak_2"},
+            {"path":"textures/blocks/log_oak_3"},
+            {"path":"textures/blocks/log_oak_4"},
             {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak"},
+            {"path":"textures/blocks/log_oak_2"},
+            {"path":"textures/blocks/log_oak_3"},
+            {"path":"textures/blocks/log_oak_4"},
             {"path":"textures/blocks/log_oak_horseshoe"}
           ]
         },
         {
           "variations": [
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce"},
             {"path":"textures/blocks/log_spruce"},
             {"path":"textures/blocks/log_spruce"},
             {"path":"textures/blocks/log_spruce"},
@@ -187,30 +151,22 @@
         {
           "variations": [
             {"path":"textures/blocks/log_birch"},
+            {"path":"textures/blocks/log_birch_2"},
+            {"path":"textures/blocks/log_birch_3"},
+            {"path":"textures/blocks/log_birch_4"},
+            {"path":"textures/blocks/log_birch_5"},
+            {"path":"textures/blocks/log_birch_6"},
             {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch_horseshoe"},
-            {"path":"textures/blocks/log_birch"}
+            {"path":"textures/blocks/log_birch_2"},
+            {"path":"textures/blocks/log_birch_3"},
+            {"path":"textures/blocks/log_birch_4"},
+            {"path":"textures/blocks/log_birch_5"},
+            {"path":"textures/blocks/log_birch_6"},
+            {"path":"textures/blocks/log_birch_horseshoe"}
           ]
         },
         {
           "variations": [
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle"},
             {"path":"textures/blocks/log_jungle"},
             {"path":"textures/blocks/log_jungle"},
             {"path":"textures/blocks/log_jungle"},
@@ -228,14 +184,10 @@
         }
       ]
     },
-    "log_side2" : {
-      "textures" : [
+    "log_side2": {
+      "textures": [
         {
           "variations": [
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia"},
             {"path":"textures/blocks/log_acacia"},
             {"path":"textures/blocks/log_acacia"},
             {"path":"textures/blocks/log_acacia"},
@@ -253,10 +205,6 @@
         },
         {
           "variations": [
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak"},
             {"path":"textures/blocks/log_big_oak"},
             {"path":"textures/blocks/log_big_oak"},
             {"path":"textures/blocks/log_big_oak"},
