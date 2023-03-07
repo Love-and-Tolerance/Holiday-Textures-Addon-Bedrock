@@ -8,25 +8,13 @@
       "textures": [
         {
           "variations": [
-            {"path":"textures/blocks/dirt"},
-            {"path":"textures/blocks/dirt_2"},
-            {"path":"textures/blocks/dirt_3"},
-            {"path":"textures/blocks/dirt_4"},
-            {"path":"textures/blocks/dirt_5"},
-            {"path":"textures/blocks/dirt_6"},
-            {"path":"textures/blocks/dirt"},
-            {"path":"textures/blocks/dirt_2"},
-            {"path":"textures/blocks/dirt_3"},
-            {"path":"textures/blocks/dirt_4"},
-            {"path":"textures/blocks/dirt_5"},
-            {"path":"textures/blocks/dirt_6"},
-            {"path":"textures/blocks/dirt"},
-            {"path":"textures/blocks/dirt_2"},
-            {"path":"textures/blocks/dirt_3"},
-            {"path":"textures/blocks/dirt_4"},
-            {"path":"textures/blocks/dirt_5"},
-            {"path":"textures/blocks/dirt_6"},
-			{"path":"textures/blocks/dirt_heart"}
+            {"path":"textures/blocks/dirt", "weight": 19},
+            {"path":"textures/blocks/dirt_2", "weight": 19},
+            {"path":"textures/blocks/dirt_3", "weight": 19},
+            {"path":"textures/blocks/dirt_4", "weight": 19},
+            {"path":"textures/blocks/dirt_5", "weight": 19},
+            {"path":"textures/blocks/dirt_6", "weight": 19},
+			{"path":"textures/blocks/dirt_heart", "weight": 1}
           ]
         },
         "textures/blocks/coarse_dirt"
@@ -36,79 +24,53 @@
       "textures": [
         {
           "variations": [ 
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak_2"},
-            {"path":"textures/blocks/log_oak_3"},
-            {"path":"textures/blocks/log_oak_4"},
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak_2"},
-            {"path":"textures/blocks/log_oak_3"},
-            {"path":"textures/blocks/log_oak_4"},
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak_2"},
-            {"path":"textures/blocks/log_oak_3"},
-            {"path":"textures/blocks/log_oak_4"},
-            {"path":"textures/blocks/log_oak_horseshoe"}
+            {"path":"textures/blocks/log_oak", "weight": 16},
+            {"path":"textures/blocks/log_oak_2", "weight": 16},
+            {"path":"textures/blocks/log_oak_3", "weight": 16},
+            {"path":"textures/blocks/log_oak_4", "weight": 16},
+            {"path":"textures/blocks/log_oak_horseshoe", "weight": 1}
           ]
         },
         "textures/blocks/stripped_oak_log",
         {
           "variations": [
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce_horseshoe"}
+            {"path":"textures/blocks/log_spruce", "weight": 16},
+            {"path":"textures/blocks/log_spruce_horseshoe", "weight": 1}
           ]
         },
         "textures/blocks/stripped_spruce_log",
         {
           "variations": [
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch_2"},
-            {"path":"textures/blocks/log_birch_3"},
-            {"path":"textures/blocks/log_birch_4"},
-            {"path":"textures/blocks/log_birch_5"},
-            {"path":"textures/blocks/log_birch_6"},
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch_2"},
-            {"path":"textures/blocks/log_birch_3"},
-            {"path":"textures/blocks/log_birch_4"},
-            {"path":"textures/blocks/log_birch_5"},
-            {"path":"textures/blocks/log_birch_6"},
-            {"path":"textures/blocks/log_birch_horseshoe"}
+            {"path":"textures/blocks/log_birch", "weight": 16},
+            {"path":"textures/blocks/log_birch_2", "weight": 16},
+            {"path":"textures/blocks/log_birch_3", "weight": 16},
+            {"path":"textures/blocks/log_birch_4", "weight": 16},
+            {"path":"textures/blocks/log_birch_5", "weight": 16},
+            {"path":"textures/blocks/log_birch_6", "weight": 16},
+            {"path":"textures/blocks/log_birch_horseshoe", "weight": 1}
           ]
         },
         "textures/blocks/stripped_birch_log",
         {
           "variations": [
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle_horseshoe"}
+            {"path":"textures/blocks/log_jungle", "weight": 16},
+            {"path":"textures/blocks/log_jungle_horseshoe", "weight": 1}
           ]
         },
         "textures/blocks/stripped_jungle_log",
-        "textures/blocks/log_acacia",
+        {
+          "variations": [
+            {"path":"textures/blocks/log_acacia", "weight": 16},
+            {"path":"textures/blocks/log_acacia_horseshoe", "weight": 1}
+          ]
+        },
         "textures/blocks/stripped_acacia_log",
-        "textures/blocks/log_big_oak",
+        {
+          "variations": [
+            {"path":"textures/blocks/log_big_oak", "weight": 16},
+            {"path":"textures/blocks/log_big_oak_horseshoe", "weight": 1}
+          ]
+        },
         "textures/blocks/stripped_dark_oak_log"
       ]
     },
@@ -116,70 +78,34 @@
       "textures": [
         {
           "variations": [ 
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak_2"},
-            {"path":"textures/blocks/log_oak_3"},
-            {"path":"textures/blocks/log_oak_4"},
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak_2"},
-            {"path":"textures/blocks/log_oak_3"},
-            {"path":"textures/blocks/log_oak_4"},
-            {"path":"textures/blocks/log_oak"},
-            {"path":"textures/blocks/log_oak_2"},
-            {"path":"textures/blocks/log_oak_3"},
-            {"path":"textures/blocks/log_oak_4"},
-            {"path":"textures/blocks/log_oak_horseshoe"}
+            {"path":"textures/blocks/log_oak", "weight": 16},
+            {"path":"textures/blocks/log_oak_2", "weight": 16},
+            {"path":"textures/blocks/log_oak_3", "weight": 16},
+            {"path":"textures/blocks/log_oak_4", "weight": 16},
+            {"path":"textures/blocks/log_oak_horseshoe", "weight": 1}
           ]
         },
         {
           "variations": [
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce"},
-            {"path":"textures/blocks/log_spruce_horseshoe"}
+            {"path":"textures/blocks/log_spruce", "weight": 16},
+            {"path":"textures/blocks/log_spruce_horseshoe", "weight": 1}
           ]
         },
         {
           "variations": [
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch_2"},
-            {"path":"textures/blocks/log_birch_3"},
-            {"path":"textures/blocks/log_birch_4"},
-            {"path":"textures/blocks/log_birch_5"},
-            {"path":"textures/blocks/log_birch_6"},
-            {"path":"textures/blocks/log_birch"},
-            {"path":"textures/blocks/log_birch_2"},
-            {"path":"textures/blocks/log_birch_3"},
-            {"path":"textures/blocks/log_birch_4"},
-            {"path":"textures/blocks/log_birch_5"},
-            {"path":"textures/blocks/log_birch_6"},
-            {"path":"textures/blocks/log_birch_horseshoe"}
+            {"path":"textures/blocks/log_birch", "weight": 16},
+            {"path":"textures/blocks/log_birch_2", "weight": 16},
+            {"path":"textures/blocks/log_birch_3", "weight": 16},
+            {"path":"textures/blocks/log_birch_4", "weight": 16},
+            {"path":"textures/blocks/log_birch_5", "weight": 16},
+            {"path":"textures/blocks/log_birch_6", "weight": 16},
+            {"path":"textures/blocks/log_birch_horseshoe", "weight": 1}
           ]
         },
         {
           "variations": [
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle"},
-            {"path":"textures/blocks/log_jungle_horseshoe"}
+            {"path":"textures/blocks/log_jungle", "weight": 16},
+            {"path":"textures/blocks/log_jungle_horseshoe", "weight": 1}
           ]
         }
       ]
@@ -188,36 +114,14 @@
       "textures": [
         {
           "variations": [
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia"},
-            {"path":"textures/blocks/log_acacia_horseshoe"}
+            {"path":"textures/blocks/log_acacia", "weight": 16},
+            {"path":"textures/blocks/log_acacia_horseshoe", "weight": 1}
           ]
         },
         {
           "variations": [
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak"},
-            {"path":"textures/blocks/log_big_oak_horseshoe"}
+            {"path":"textures/blocks/log_big_oak", "weight": 16},
+            {"path":"textures/blocks/log_big_oak_horseshoe", "weight": 1}
           ]
         }
       ]
